@@ -1,0 +1,34 @@
+{
+    "dataset": "test",
+    "accuracy": 0.960655990144749,
+    "precision_macro": 0.9615909270081837,
+    "recall_macro": 0.9585732515190724,
+    "f1_macro": 0.9599361000381855,
+    "detailed_report": {
+        "neutral or dissatisfied": {
+            "precision": 0.9551897883775613,
+            "recall": 0.9756398819735127,
+            "f1-score": 0.9653065381220721,
+            "support": 14573.0
+        },
+        "satisfied": {
+            "precision": 0.9679920656388062,
+            "recall": 0.9415066210646321,
+            "f1-score": 0.9545656619542989,
+            "support": 11403.0
+        },
+        "accuracy": 0.960655990144749,
+        "macro avg": {
+            "precision": 0.9615909270081837,
+            "recall": 0.9585732515190724,
+            "f1-score": 0.9599361000381855,
+            "support": 25976.0
+        },
+        "weighted avg": {
+            "precision": 0.9608097594127466,
+            "recall": 0.960655990144749,
+            "f1-score": 0.9605914853448501,
+            "support": 25976.0
+        }
+    }
+}
